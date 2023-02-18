@@ -1,2 +1,2 @@
-# YT-Django-Docker-Compose-Celery-Redis-PostgreSQL
+# Projekt w django na zajęcia z Programowanie współbieżnego i rozproszonego oraz Pracownie programowania V
  
